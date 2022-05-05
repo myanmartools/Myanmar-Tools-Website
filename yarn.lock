@@ -1134,10 +1134,10 @@
     tree-kill "1.2.2"
     webpack-sources "1.4.3"
 
-"@nguniversal/common@^13.1.0":
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/@nguniversal/common/-/common-13.1.0.tgz#cceb868982c623898fe7b9c42b0fb366d86af0e5"
-  integrity sha512-bmRwJoEM5LfA4kDRkuVvoOv6NFAOgn2WpolwQlnLNfGTKL/fyNw/JyIvdEphQdjhTTRadehY8MYbr+X97+hyLw==
+"@nguniversal/common@^13.1.1":
+  version "13.1.1"
+  resolved "https://registry.yarnpkg.com/@nguniversal/common/-/common-13.1.1.tgz#5f8c144f41a5f867c8d051d2ebfa052f10ac22fd"
+  integrity sha512-DoAPA7+kUz+qMgCTUtRPFcMGY0zz8OSkOTZnxqO5sUYntD6mCEQImHU0WF4ud88j71o0Hv+AISJD1evAAANCdw==
   dependencies:
     critters "0.0.16"
     jsdom "19.0.0"
